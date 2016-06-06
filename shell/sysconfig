@@ -1,0 +1,3 @@
+NGINX=/usr/sbin/nginx
+CONFFILE=/etc/nginx/nginx.conf
+PIDFILE=/etc/nginx/nginx.pid
